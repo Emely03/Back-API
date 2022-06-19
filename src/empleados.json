@@ -1,0 +1,102 @@
+[
+    {
+
+       "numempleado": "1",
+       "numeroid": "121523785",
+       "fechaingreso": "12-01-2011",
+       "nombre": "Maicol Botero",
+       "cargo":"Gerente",
+       "salario": "10000000",
+       "email": "Maicol12@gmail.com",
+       "direccion":"Cll45 #107A"
+
+    },
+    {
+       
+        "numempleado": "2",
+        "numeroid": "45623781",
+        "fechaingreso": "31-01-2012",
+        "nombre": "Luisa Velez",
+        "cargo":"Diseñador Grafico",
+        "salario": "35000000",
+        "email": "Luisa@gmail.com",
+        "direccion":"Av54 #107BB"
+    },
+    {
+       
+        "numempleado": "3",
+        "numeroid": "23456782",
+        "fechaingreso": "12-08-2018",
+        "nombre": "Didier Garcia",
+        "cargo":"Operario",
+        "salario": "5000000",
+        "email": "Didier@gmail.com",
+        "direccion":"Cll75 #107 108"
+    },
+    {
+       
+        "numempleado": "4",
+        "numeroid": "23456789",
+        "fechaingreso": "04-01-2019",
+        "nombre": "Maria Rodriguez",
+        "cargo":"Recepcionista",
+        "salario": "550000000",
+        "email": "Maria@gmail.com",
+        "direccion":"Cll44 A #108A"
+    },
+    {
+       
+        "numempleado": "5",
+        "numeroid": "1234562378",
+        "fechaingreso": "31-01-2020",
+        "nombre": "Tommy Lopez",
+        "cargo":"Tecnico en soporte",
+        "salario": "2000000",
+        "email": "Tommy@gmail.com",
+        "direccion":"CR45 #111BA"
+    },
+    {
+       
+        "numempleado": "6",
+        "numeroid": "1234567894",
+        "fechaingreso": "03-12-2020",
+        "nombre": "Luca Galvis",
+        "cargo":"Desarrollador",
+        "salario": "4000000",
+        "email": "Galvis@gmail.com",
+        "direccion":"CR43 #107 123"
+    },
+    {
+       
+        "numempleado": "7",
+        "numeroid": "12345678",
+        "fechaingreso": "04-10-2021",
+        "nombre": "Fredy Castilla",
+        "cargo":"Analista",
+        "salario": "4500000",
+        "email": "Freddys@gmail.com",
+        "direccion":"CR47 #106 AB"
+    },
+    {
+       
+        "numempleado": "8",
+        "numeroid": "3456782313",
+        "fechaingreso": "04-01-2022",
+        "nombre": "Miriam Maldonado",
+        "cargo":"Ejecutiva",
+        "salario": "4600000",
+        "email": "Galvis@gmail.com",
+        "direccion":"CR43 #107 123"
+    },
+    {
+       
+        "numempleado": "9",
+        "numeroid": "234568788",
+        "fechaingreso": "03-06-2022",
+        "nombre": "Gerardo Restrepo",
+        "cargo":"Director",
+        "salario": "7000000",
+        "email": "Restrepo@gmail.com",
+        "direccion":"Cll56 #107 109A"
+    }
+]
